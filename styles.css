@@ -1,0 +1,41 @@
+.Heading{
+    color: white;
+    background-color: black;
+    background-image: url("Image/Ronaldo1.jpg");
+}
+.Maq{
+    color: beige;
+    background-color: brown;
+    font-style: italic;
+    font-size: 200%;
+}
+.Tab{
+    background-color: burlywood;
+    font-style: italic;
+}
+.Prat{
+    color: white;
+}
+body{
+    background-image: url('Image/Ronaldo1.jpg');
+    background-size: cover;
+}
+.Stu{
+    text-decoration: underline;
+    color: white;
+}
+.ab{
+    text-decoration: underline;
+    color: blue;
+    background-color: white;
+}
+.Abs{
+    color: white;
+    text-decoration: underline;
+}
+.Ref{
+    color: blue;
+}
+.Line{
+    line-height: 0%;
+}
